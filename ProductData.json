@@ -1,0 +1,32 @@
+[
+  {
+    "productName": "stapler",
+    "answersRecycle": [
+      "recycle",
+      "trash",
+      "biodegradble"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "45% say it should be recycled "
+  },
+  {
+    "productName": "pizzabox",
+    "answersRecycle": [
+      "recycle",
+      "trash",
+      "biodegradble"
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "76% say it should be recycled "
+  } ,
+  {
+    "productName": "banana peel",
+    "answersRecycle": [
+      "recycle",
+      "trash",
+      "biodegradble"
+    ],
+    "correctAnswerIndex": 3,
+    "feedback": "94% say it is biodegradble "
+  }
+]
